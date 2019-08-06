@@ -1,16 +1,12 @@
 #include<iostream>
 #include<vector>
-#include<string>
 #include<algorithm>
-#include <unordered_map> 
-
 using namespace std;
 
-int lis(vector<int> &v, int n){
-    int lis[n];
-    lis[0]=1;
+int lis(vector<int> &v){
+    int n = v.size();
+    vector<int> lis(n,1);
     for(int i=1;i<n;i++){
-        lis[i]=1;
         for(int j=0;j<i;j++){
             if(v[i]>v[j] && lis[i]<lis[j]+1)
                 lis[i]=lis[j]+1;
@@ -19,12 +15,11 @@ int lis(vector<int> &v, int n){
     for(int i=0;i<n;i++)
         cout<<lis[i]<<" ";
     cout<<endl;
-    return *max_element(lis,lis+n);
+    return *max_element(lis.begin(),lis.end());
 }
 
 int main(){
-    vector<int> v = {3,10,2,1,20};
-    int n = v.size();
-    int ans = lis(v,n);
+    vector<int> v = {1,3,4,6,5,4,2};
+    int ans = lis(v);
     cout<<ans<<endl;
 }
