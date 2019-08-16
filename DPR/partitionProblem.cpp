@@ -26,8 +26,9 @@ int main(){
             cin>>v[i];;
             sum+=v[i];
         }
+        cout<<sum<<endl;
         sort(v.begin(),v.end());
-        if(sum%2!=0){ cout<<"NO"<<endl; return 0;}
+        if(sum%2!=0){ cout<<"NO"<<endl;}
         else if(partition(v,v.size()-1,sum/2)) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
     }
