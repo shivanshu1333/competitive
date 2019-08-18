@@ -13,6 +13,7 @@ int os(vector<int> &v, int i, int j){
     
 }
 
+
 int main() {
 	int T;
 	cin>>T;
