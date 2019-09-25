@@ -3,7 +3,9 @@
 using namespace std;
 
 int os(vector<int> &v, int i, int j){
-    if(abs(i-j)<=1)
+    if(j==i)
+        return v[i];
+    if(j==i+1)
         return max(v[i],v[j]);
     int x = v[i]+min(os(v,i+2,j),os(v,i+1,j-1));
     int y = v[j]+min(os(v,i+1,j-1),os(v,i,j-2));
