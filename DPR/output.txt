@@ -1,0 +1,4127 @@
+11 12 13 14 15 
+16 17 18 19 20 
+21 22 23 24 25 
+26 27 28 29 30 
+done
+11 12 13 14 
+16 17 18 19 
+21 22 23 24 
+26 27 28 29 
+done
+12 13 14 15 
+17 18 19 20 
+22 23 24 25 
+27 28 29 30 
+done
+11 12 13 
+16 17 18 
+21 22 23 
+26 27 28 
+done
+12 13 14 
+17 18 19 
+22 23 24 
+27 28 29 
+done
+13 14 15 
+18 19 20 
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+21 22 
+26 27 
+done
+12 13 
+17 18 
+22 23 
+27 28 
+done
+13 14 
+18 19 
+23 24 
+28 29 
+done
+14 15 
+19 20 
+24 25 
+29 30 
+done
+11 
+16 
+21 
+26 
+done
+12 
+17 
+22 
+27 
+done
+13 
+18 
+23 
+28 
+done
+14 
+19 
+24 
+29 
+done
+15 
+20 
+25 
+30 
+done
+11 
+16 
+21 
+done
+12 
+17 
+22 
+done
+13 
+18 
+23 
+done
+14 
+19 
+24 
+done
+15 
+20 
+25 
+done
+16 
+21 
+26 
+done
+17 
+22 
+27 
+done
+18 
+23 
+28 
+done
+19 
+24 
+29 
+done
+20 
+25 
+30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+16 17 
+21 22 
+done
+12 13 
+17 18 
+22 23 
+done
+13 14 
+18 19 
+23 24 
+done
+14 15 
+19 20 
+24 25 
+done
+16 17 
+21 22 
+26 27 
+done
+17 18 
+22 23 
+27 28 
+done
+18 19 
+23 24 
+28 29 
+done
+19 20 
+24 25 
+29 30 
+done
+11 
+16 
+21 
+done
+12 
+17 
+22 
+done
+13 
+18 
+23 
+done
+14 
+19 
+24 
+done
+15 
+20 
+25 
+done
+16 
+21 
+26 
+done
+17 
+22 
+27 
+done
+18 
+23 
+28 
+done
+19 
+24 
+29 
+done
+20 
+25 
+30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+16 17 18 
+21 22 23 
+done
+12 13 14 
+17 18 19 
+22 23 24 
+done
+13 14 15 
+18 19 20 
+23 24 25 
+done
+16 17 18 
+21 22 23 
+26 27 28 
+done
+17 18 19 
+22 23 24 
+27 28 29 
+done
+18 19 20 
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+21 22 
+done
+12 13 
+17 18 
+22 23 
+done
+13 14 
+18 19 
+23 24 
+done
+14 15 
+19 20 
+24 25 
+done
+16 17 
+21 22 
+26 27 
+done
+17 18 
+22 23 
+27 28 
+done
+18 19 
+23 24 
+28 29 
+done
+19 20 
+24 25 
+29 30 
+done
+11 
+16 
+21 
+done
+12 
+17 
+22 
+done
+13 
+18 
+23 
+done
+14 
+19 
+24 
+done
+15 
+20 
+25 
+done
+16 
+21 
+26 
+done
+17 
+22 
+27 
+done
+18 
+23 
+28 
+done
+19 
+24 
+29 
+done
+20 
+25 
+30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+16 17 18 
+done
+12 13 14 
+17 18 19 
+done
+13 14 15 
+18 19 20 
+done
+16 17 18 
+21 22 23 
+done
+17 18 19 
+22 23 24 
+done
+18 19 20 
+23 24 25 
+done
+21 22 23 
+26 27 28 
+done
+22 23 24 
+27 28 29 
+done
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 
+16 17 18 19 
+21 22 23 24 
+done
+12 13 14 15 
+17 18 19 20 
+22 23 24 25 
+done
+16 17 18 19 
+21 22 23 24 
+26 27 28 29 
+done
+17 18 19 20 
+22 23 24 25 
+27 28 29 30 
+done
+11 12 13 
+16 17 18 
+21 22 23 
+done
+12 13 14 
+17 18 19 
+22 23 24 
+done
+13 14 15 
+18 19 20 
+23 24 25 
+done
+16 17 18 
+21 22 23 
+26 27 28 
+done
+17 18 19 
+22 23 24 
+27 28 29 
+done
+18 19 20 
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+21 22 
+done
+12 13 
+17 18 
+22 23 
+done
+13 14 
+18 19 
+23 24 
+done
+14 15 
+19 20 
+24 25 
+done
+16 17 
+21 22 
+26 27 
+done
+17 18 
+22 23 
+27 28 
+done
+18 19 
+23 24 
+28 29 
+done
+19 20 
+24 25 
+29 30 
+done
+11 
+16 
+21 
+done
+12 
+17 
+22 
+done
+13 
+18 
+23 
+done
+14 
+19 
+24 
+done
+15 
+20 
+25 
+done
+16 
+21 
+26 
+done
+17 
+22 
+27 
+done
+18 
+23 
+28 
+done
+19 
+24 
+29 
+done
+20 
+25 
+30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+16 17 18 
+done
+12 13 14 
+17 18 19 
+done
+13 14 15 
+18 19 20 
+done
+16 17 18 
+21 22 23 
+done
+17 18 19 
+22 23 24 
+done
+18 19 20 
+23 24 25 
+done
+21 22 23 
+26 27 28 
+done
+22 23 24 
+27 28 29 
+done
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 
+16 17 18 19 
+done
+12 13 14 15 
+17 18 19 20 
+done
+16 17 18 19 
+21 22 23 24 
+done
+17 18 19 20 
+22 23 24 25 
+done
+21 22 23 24 
+26 27 28 29 
+done
+22 23 24 25 
+27 28 29 30 
+done
+11 12 13 
+16 17 18 
+done
+12 13 14 
+17 18 19 
+done
+13 14 15 
+18 19 20 
+done
+16 17 18 
+21 22 23 
+done
+17 18 19 
+22 23 24 
+done
+18 19 20 
+23 24 25 
+done
+21 22 23 
+26 27 28 
+done
+22 23 24 
+27 28 29 
+done
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 
+done
+12 13 14 15 
+done
+16 17 18 19 
+done
+17 18 19 20 
+done
+21 22 23 24 
+done
+22 23 24 25 
+done
+26 27 28 29 
+done
+27 28 29 30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 15 
+16 17 18 19 20 
+21 22 23 24 25 
+done
+16 17 18 19 20 
+21 22 23 24 25 
+26 27 28 29 30 
+done
+11 12 13 14 
+16 17 18 19 
+21 22 23 24 
+done
+12 13 14 15 
+17 18 19 20 
+22 23 24 25 
+done
+16 17 18 19 
+21 22 23 24 
+26 27 28 29 
+done
+17 18 19 20 
+22 23 24 25 
+27 28 29 30 
+done
+11 12 13 
+16 17 18 
+21 22 23 
+done
+12 13 14 
+17 18 19 
+22 23 24 
+done
+13 14 15 
+18 19 20 
+23 24 25 
+done
+16 17 18 
+21 22 23 
+26 27 28 
+done
+17 18 19 
+22 23 24 
+27 28 29 
+done
+18 19 20 
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+21 22 
+done
+12 13 
+17 18 
+22 23 
+done
+13 14 
+18 19 
+23 24 
+done
+14 15 
+19 20 
+24 25 
+done
+16 17 
+21 22 
+26 27 
+done
+17 18 
+22 23 
+27 28 
+done
+18 19 
+23 24 
+28 29 
+done
+19 20 
+24 25 
+29 30 
+done
+11 
+16 
+21 
+done
+12 
+17 
+22 
+done
+13 
+18 
+23 
+done
+14 
+19 
+24 
+done
+15 
+20 
+25 
+done
+16 
+21 
+26 
+done
+17 
+22 
+27 
+done
+18 
+23 
+28 
+done
+19 
+24 
+29 
+done
+20 
+25 
+30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+16 17 18 
+done
+12 13 14 
+17 18 19 
+done
+13 14 15 
+18 19 20 
+done
+16 17 18 
+21 22 23 
+done
+17 18 19 
+22 23 24 
+done
+18 19 20 
+23 24 25 
+done
+21 22 23 
+26 27 28 
+done
+22 23 24 
+27 28 29 
+done
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 
+16 17 18 19 
+done
+12 13 14 15 
+17 18 19 20 
+done
+16 17 18 19 
+21 22 23 24 
+done
+17 18 19 20 
+22 23 24 25 
+done
+21 22 23 24 
+26 27 28 29 
+done
+22 23 24 25 
+27 28 29 30 
+done
+11 12 13 
+16 17 18 
+done
+12 13 14 
+17 18 19 
+done
+13 14 15 
+18 19 20 
+done
+16 17 18 
+21 22 23 
+done
+17 18 19 
+22 23 24 
+done
+18 19 20 
+23 24 25 
+done
+21 22 23 
+26 27 28 
+done
+22 23 24 
+27 28 29 
+done
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 
+done
+12 13 14 15 
+done
+16 17 18 19 
+done
+17 18 19 20 
+done
+21 22 23 24 
+done
+22 23 24 25 
+done
+26 27 28 29 
+done
+27 28 29 30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 15 
+16 17 18 19 20 
+done
+16 17 18 19 20 
+21 22 23 24 25 
+done
+21 22 23 24 25 
+26 27 28 29 30 
+done
+11 12 13 14 
+16 17 18 19 
+done
+12 13 14 15 
+17 18 19 20 
+done
+16 17 18 19 
+21 22 23 24 
+done
+17 18 19 20 
+22 23 24 25 
+done
+21 22 23 24 
+26 27 28 29 
+done
+22 23 24 25 
+27 28 29 30 
+done
+11 12 13 
+16 17 18 
+done
+12 13 14 
+17 18 19 
+done
+13 14 15 
+18 19 20 
+done
+16 17 18 
+21 22 23 
+done
+17 18 19 
+22 23 24 
+done
+18 19 20 
+23 24 25 
+done
+21 22 23 
+26 27 28 
+done
+22 23 24 
+27 28 29 
+done
+23 24 25 
+28 29 30 
+done
+11 12 
+16 17 
+done
+12 13 
+17 18 
+done
+13 14 
+18 19 
+done
+14 15 
+19 20 
+done
+16 17 
+21 22 
+done
+17 18 
+22 23 
+done
+18 19 
+23 24 
+done
+19 20 
+24 25 
+done
+21 22 
+26 27 
+done
+22 23 
+27 28 
+done
+23 24 
+28 29 
+done
+24 25 
+29 30 
+done
+11 
+16 
+done
+12 
+17 
+done
+13 
+18 
+done
+14 
+19 
+done
+15 
+20 
+done
+16 
+21 
+done
+17 
+22 
+done
+18 
+23 
+done
+19 
+24 
+done
+20 
+25 
+done
+21 
+26 
+done
+22 
+27 
+done
+23 
+28 
+done
+24 
+29 
+done
+25 
+30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 
+done
+12 13 14 15 
+done
+16 17 18 19 
+done
+17 18 19 20 
+done
+21 22 23 24 
+done
+22 23 24 25 
+done
+26 27 28 29 
+done
+27 28 29 30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
+11 12 13 14 15 
+done
+16 17 18 19 20 
+done
+21 22 23 24 25 
+done
+26 27 28 29 30 
+done
+11 12 13 14 
+done
+12 13 14 15 
+done
+16 17 18 19 
+done
+17 18 19 20 
+done
+21 22 23 24 
+done
+22 23 24 25 
+done
+26 27 28 29 
+done
+27 28 29 30 
+done
+11 12 13 
+done
+12 13 14 
+done
+13 14 15 
+done
+16 17 18 
+done
+17 18 19 
+done
+18 19 20 
+done
+21 22 23 
+done
+22 23 24 
+done
+23 24 25 
+done
+26 27 28 
+done
+27 28 29 
+done
+28 29 30 
+done
+11 12 
+done
+12 13 
+done
+13 14 
+done
+14 15 
+done
+16 17 
+done
+17 18 
+done
+18 19 
+done
+19 20 
+done
+21 22 
+done
+22 23 
+done
+23 24 
+done
+24 25 
+done
+26 27 
+done
+27 28 
+done
+28 29 
+done
+29 30 
+done
+11 
+done
+12 
+done
+13 
+done
+14 
+done
+15 
+done
+16 
+done
+17 
+done
+18 
+done
+19 
+done
+20 
+done
+21 
+done
+22 
+done
+23 
+done
+24 
+done
+25 
+done
+26 
+done
+27 
+done
+28 
+done
+29 
+done
+30 
+done
