@@ -35,7 +35,7 @@ public:
             }
         return ans;
     }
-    
+// char '0', '1'        
     int maximalRectangle(vector<vector<char>>& m) {
         if(m.size()==0 || m[0].size()==0) return 0;
         vector<vector<int>> v(m.size(), vector<int> (m[0].size()));

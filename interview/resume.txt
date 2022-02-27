@@ -1,0 +1,7 @@
+This project was inspired from Unnat Bharat Abhiyan initiative.
+Processed results from various sensors and used Support Vector Machine to classify the signals of interrupting animals.
+
+
+Abhishek Aggrawal ECE BNY interrupting
+Ashwini ECE cisco
+Himashu Gupta BNY senior

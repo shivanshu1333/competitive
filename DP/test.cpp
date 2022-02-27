@@ -1,32 +1,40 @@
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
+#define f first
+#define s second
+
+// 4
+// 6 3
+// aaabbc
+
+bool comp(pair<int, int> a, pair<int, int> b){
+    return a.s<b.s;
+}
+
+struct CompareDist{
+    bool operator()(pair<int,int> a,pair<int,int> b) {
+        return a.s>b.s;
+    }
+};
+
+queue< , , comp > q;
+
+pair<int, pair<int, int>>
+vector<pair<int, pair<int, int>>>
 
 int main() {
-    int T;
-    cin>>T;
-    while(T--){
-        int N;
-        cin>>N;
-        int i=1,j=1,k=1;;
-        long long dp[N+1];
-        dp[0]=1;
-        dp[1]=1;
-        int in = 2;
-        while(in<=N){
-            long long a = 2*dp[i];
-            long long b = 3*dp[j];
-            long long c = 5*dp[k];
-            long long push = (min(min(a,b),c));
-            if(a==push)
-                i++;
-            if(b==push)
-                j++;
-            if(c==push)
-                k++;
-            dp[in]=push;
-            in++;
-        }
-        // for(int i=0;i<N+1;i++)
-            cout<<dp[N]<<endl;
+    priority_queue<pair<int, int>, vector<pair<int, int>>, CompareDist > q;
+    q.push({2,4});
+    q.push({1000,-23});
+    q.push({39,231});
+    q.push({433,-39});
+    q.push({-238,3000});
+    q.push({-23233,-3232});
+    q.push({321,89});
+    while(!q.empty()){
+        pair<int,int> tp = q.top();
+        q.pop();
+        cout<<tp.f<<" "<<tp.s<<endl;
     }
+    return 0;
 }

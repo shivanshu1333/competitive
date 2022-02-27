@@ -15,3 +15,37 @@ int Solution::numDecodings(string A) {
     }
     return dp[s];
 }
+////memo
+int ways(string s, int i, vector<int> &dp){
+    if(i==s.length())
+        return 1;
+    if(dp[i]!=-1) return dp[i];
+    else{
+        if(s[i]=='0')
+            return 0;
+        else if(s[i]>'2'){
+            dp[i] = ways(s, i+1, dp);
+            return dp[i];
+        }
+        else if(i+1>=s.length()){
+            dp[i] = ways(s, i+1, dp);
+            return dp[i];
+        }
+        else if(s[i]=='1' || (s[i]=='2'&&s[i+1]<'7')){
+            dp[i] = ways(s, i+2, dp)+ways(s,i+1, dp);
+            return dp[i];                
+        }
+        else{
+            dp[i] = ways(s, i+1, dp);
+            return dp[i];    
+        }  
+    }
+    return dp[i];
+}
+    
+
+
+int Solution::numDecodings(string A) {
+    vector<int> dp(s.length(), -1);
+    return ways(A,0,dp);
+}
